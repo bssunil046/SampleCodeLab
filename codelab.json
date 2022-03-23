@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-03-23T17:19:42-04:00",
+  "id": "docs",
+  "duration": 6,
+  "title": "Test Codelab with Google Codelab",
+  "authors": "Sunil Bagunji",
+  "summary": "Test Code lab",
+  "source": "sample-codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "meta"
+  ],
+  "tags": [
+    "beginner"
+  ],
+  "url": "docs"
+}
